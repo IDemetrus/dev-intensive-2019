@@ -2,6 +2,7 @@
 .gradle/
 
 # User-specific configurations
+# Telegram @IDmeetrious
 *.iml
 
 # OS-specific files
